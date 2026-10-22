@@ -32,6 +32,12 @@ online payment, together with an admin dashboard for managing hospital data.
 - Payment confirmation for patient transactions
 - Change username and password
 
+## Akun demo
+| Peran  | Username | Password   |
+|--------|----------|------------|
+| Admin  | `admin`  | `admin123` |
+| Pasien | `pasien` | `pasien123`|
+
 ## Tech Stack
 
 PHP · MySQL · HTML · CSS · JavaScript · Bootstrap · Midtrans payment gateway
